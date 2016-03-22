@@ -1,0 +1,3 @@
+編譯(compile)：make
+執行(execute)：./lab2-a
+查看結果：cat file.out
